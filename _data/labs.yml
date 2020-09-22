@@ -1,0 +1,49 @@
+#- title: "Sample .Rmd File"
+#  filename: Untitled
+#  dirname: untitled-lecture
+#  tldr: "This is just a sample .rmd file to illustrate the use of the lectures.yml file."
+
+- title: "Lab 1"
+  filename: Lab 1 - Building a Game Application with Bullet and OpenGL
+  dirname: labs
+  tldr: "Building a Game Application with Bullet and OpenGL"
+
+- title: "Lab 2"
+  filename: Lab 2 - Rendering and User Input
+  dirname: labs
+  tldr: "Rendering and User Input"
+
+- title: "Lab 3"
+  filename: Lab 3 - Physics Initialization
+  dirname: labs
+  tldr: "Physics Initialization"
+
+- title: "Lab 4"
+  filename: Lab 4 - Object Mannagement and Debug Rendering
+  dirname: labs
+  tldr: "Object Mannagement and Debug Rendering"
+
+- title: "Lab 5"
+  filename: Lab 5 - Raycasting and Constraints
+  dirname: labs
+  tldr: "Raycasting and Constraints"
+
+- title: "Lab 6"
+  filename: Lab 6 - Events, Triggers and Explosions
+  dirname: labs
+  tldr: "Events, Triggers and Explosions"
+
+- title: "Lab 7"
+  filename: Lab 7 - Collision Shapes
+  dirname: labs
+  tldr: "Collision Shapes"
+
+- title: "Lab 8"
+  filename: Lab 8 - Collision Filtering
+  dirname: labs
+  tldr: "Collision Filtering"
+
+- title: "Lab 9"
+  filename: Lab 9 - Soft Body Dynamics
+  dirname: labs
+  tldr: "Soft Body Dynamics"

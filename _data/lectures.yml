@@ -4,6 +4,6 @@
 #  tldr: "This is just a sample .rmd file to illustrate the use of the lectures.yml file."
 
 - title: "Week 1: Intro"
-  filename: introduction
-  dirname: untitled-lecture
+  filename: Untitled
+  dirname: lectures
   tldr: "Once more with feeling."
