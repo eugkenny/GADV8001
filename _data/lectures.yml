@@ -3,7 +3,22 @@
 #  dirname: untitled-lecture
 #  tldr: "This is just a sample .rmd file to illustrate the use of the lectures.yml file."
 
-- title: "Week 1: Intro"
-  filename: Untitled
+- title: "Lecture 1: Motion in One Dimension"
+  filename: Phys_Lecture03.pdf
   dirname: lectures
-  tldr: "Once more with feeling."
+  tldr: "Position, Displacement, Velocity"
+
+- title: "Lecture 2: Motion in One Dimension"
+  filename: Phys_Lecture04.pdf
+  dirname: lectures
+  tldr: "Gravity, Freefall"
+
+- title: "Lecture 3: Vectors"
+  filename: Phys_Lecture05.pdf
+  dirname: lectures
+  tldr: "Vectors, vector components, vector addition"
+
+- title: "Lecture 4: Motion in Two Dimensions"
+  filename: Phys_Lecture06.pdf
+  dirname: lectures
+  tldr: "Vectors (cont.)"
