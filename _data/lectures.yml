@@ -28,8 +28,13 @@
   dirname: lectures
   tldr: "Forces, Laws of motion"
 
-- title: "Lecture 5: Applying Newton's Laws"
+- title: "Lecture 6: Applying Newton's Laws"
   filename: Phys_Lecture09.pdf
+  dirname: lectures
+  tldr: "Forces, Laws of motion, contact forces, friction"
+
+- title: "Lecture 7: Friction, Air resistance etc"
+  filename: Phys_Lecture10.pdf
   dirname: lectures
   tldr: "Forces, Laws of motion, contact forces, friction"
 
