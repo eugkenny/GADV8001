@@ -38,3 +38,16 @@
   dirname: lectures
   tldr: "Forces, Laws of motion, contact forces, friction"
 
+- title: "Lecture 8: Numerical Intergration"
+  filename: Numerical Integration.pdf
+  dirname: lectures
+  tldr: "Time series and time steps, integration methods"
+
+- title: "Lecture 9: Collision Detection
+  filename: Collision Detection.pdf
+  dirname: lectures
+  tldr: "Time series and time steps, integration methods"
+
+
+
+
