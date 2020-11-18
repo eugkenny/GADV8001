@@ -48,3 +48,9 @@
   dirname: lectures
   tldr: "Time series and time steps, integration methods"
 
+- title: "Video: The GJK Algorithm"
+  filename: The GJK Algorithm.mp4
+  dirname: lectures
+  tldr: "The GJK Algorithm"
+
+
