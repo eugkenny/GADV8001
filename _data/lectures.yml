@@ -53,4 +53,12 @@
   dirname: lectures
   tldr: "The GJK Algorithm"
 
+- title: "Lecture 10: Collision Response - Impulse Methods"
+  filename: Collision Response - Impulse Methods.pdf
+  dirname: lectures
+  tldr: "Impulses, coefficient of elasticity, damping, angular impulse"
 
+- title: "Lecture 11: Collision Response - Penalty Methods"
+  filename: Collision Response - Penalty Methods.pdf
+  dirname: lectures
+  tldr: "Springs, soft bodies, cloth"
