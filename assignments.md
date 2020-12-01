@@ -13,7 +13,7 @@ The bottom right icons link to the Github directory for the lecture (<i class="f
 <ul id="archive">
 {% for assignment in site.data.assignments %}
       <li class="archiveposturl">
-        <span><a href="{{ site.url }}/{{ assignment.dirname }}/{{ assignmengt.filename }}.pdf">{{ assignment.title }}</a></span><br>
+        <span><a href="{{ site.baseurl }}/{{ assignment.dirname }}/{{ assignment.filename }}">{{ assignment.title }}</a></span><br>
 <span class = "postlower">
 <!-- <strong>tl;dr:</strong> -->{{ assignment.tldr }}</span>
 <strong style="font-size:100%; font-family: 'Titillium Web', sans-serif; float:right; padding-right: .5em">
