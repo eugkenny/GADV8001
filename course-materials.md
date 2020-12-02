@@ -6,6 +6,18 @@ permalink: /course-materials/
 
 <!-- {% include image.html url="/_images/fabulous-sylvester.jpg" caption="blah" width=300 align="right" %} -->
 
+## Old Formal Exams
+
+<ul id="archive">
+{% for exam in site.data.exams %}
+      <li class="archiveposturl">
+        <span><a href="{{ site.baseurl }}/{{ exam.dirname }}/{{ exam.filename }}">{{ exam.title }}</a></span><br>
+	<span class = "postlower">{{ labs.tldr }}</span>
+	<strong style="font-size:100%; font-family: 'Titillium Web', sans-serif; float:right; padding-right: .5em"></strong> 
+      </li>
+{% endfor %}
+</ul>
+
 ## Books
 There is no specific text for the module
 #### Data Structures & Algorithms
